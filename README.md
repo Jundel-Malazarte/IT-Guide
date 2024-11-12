@@ -1,4 +1,5 @@
 <div align="center">
+<img src="./assets/img/guide.png" alt="Guide Logo">
   <h3>IT Guide For Beginners</h3>
   <div align="center">
 
